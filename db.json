@@ -17,7 +17,7 @@
     { "id": 7, "customerId": 3, "amount": 1250, "date": "2022-01-02" },
     { "id": 8, "customerId": 5, "amount": 2500, "date": "2022-01-01" },
     { "id": 9, "customerId": 5, "amount": 875, "date": "2022-01-02" },
-    { "id": 11, "customerId": 6, "amount": 1000, "date": "2022-01-03" },
-    { "id": 12, "customerId": 6, "amount": 2000, "date": "2022-01-04" }
+    { "id": 11, "customerId": 6, "amount": 1000, "date": "2022-01-01" },
+    { "id": 12, "customerId": 6, "amount": 2000, "date": "2022-01-02" }
   ]
 }
